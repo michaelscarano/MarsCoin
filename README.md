@@ -1,4 +1,3 @@
-MarsCoin
 MarsCoin is a deflationary meme token deployed on the PulseChain network. Designed to promote fun, community engagement, and future utility, MarsCoin operates with a simple 1% burn on every transaction, ensuring a deflationary supply over time.
 Tokenomics
 Total Supply: 1,000,000,000,000 MARS
